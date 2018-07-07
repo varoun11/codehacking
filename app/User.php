@@ -8,6 +8,7 @@ class User extends Authenticatable
 {
     /**
      * The attributes that are mass assignable.
+     * trying another change
      *
      * @var array
      */
