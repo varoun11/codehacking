@@ -34,6 +34,7 @@ Route::get('/insert', function(){
 
     DB::insert('insert into posts(title, content) values(?, ?)', ['PHP with Laravel', 'I Yeet for Laravel']);
 
+    //comment
 });
 
 // Route::get('/read', function(){
