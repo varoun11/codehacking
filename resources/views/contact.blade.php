@@ -22,5 +22,6 @@
 @section('footer')
 
     <!-- <script>alert('Hello visitor')</script> -->
+    <!-- another comment -->
 
 @stop
